@@ -1,0 +1,23 @@
+export const nameBand = 'TAME IMPALA';
+export let nameSongs = [
+	"LET IT HAPPEN", /*1*/
+	"FEELS LIKE WE ONLY GO BACKWARDS", /*2*/
+	"BORDERLINE", /*3*/
+	"THE LESS I KNOW THE BETTER ", /*4*/
+	"ONE MORE HOUR", /*5*/
+	"BREATHE DEEPER", /*6*/
+	"POSTHUMOUS FORGIVENESS", /*7*/
+	"LOST IN YESTERDAY", /*8*/
+	"NEW PERSON, SAME OLD MISTAKES", /*9*/
+	"YES I'M CHANGING", /*10*/
+	"THE MOMENT", /*11*/
+	"REALITY IN MOTION", /*12*/
+	"TOMORROW'S DUST", /*13*/
+	"ON TRACK", /*14*/
+	"IT MIGHT BE TIME", /*15*/
+	"PATIENCE", /*16*/
+	"KEEP ON LYING", /*17*/
+	"MIND MISCHIEF", /*18*/
+	"MUSIC TO WALK HOME BY", /*19*/
+	"WHY WON'T THEY TALK TO ME?", /*20*/
+]
